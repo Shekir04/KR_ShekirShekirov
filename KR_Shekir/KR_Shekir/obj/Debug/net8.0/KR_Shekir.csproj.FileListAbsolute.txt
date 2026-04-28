@@ -1,0 +1,14 @@
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\bin\Debug\net8.0\KR_Shekir.exe
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\bin\Debug\net8.0\KR_Shekir.deps.json
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\bin\Debug\net8.0\KR_Shekir.runtimeconfig.json
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\bin\Debug\net8.0\KR_Shekir.dll
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\bin\Debug\net8.0\KR_Shekir.pdb
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.AssemblyInfoInputs.cache
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.AssemblyInfo.cs
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.csproj.CoreCompileInputs.cache
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.dll
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\refint\KR_Shekir.dll
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.pdb
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\KR_Shekir.genruntimeconfig.cache
+C:\Users\sheki\Desktop\lab_shekir\KR_Shekir\KR_Shekir\obj\Debug\net8.0\ref\KR_Shekir.dll
